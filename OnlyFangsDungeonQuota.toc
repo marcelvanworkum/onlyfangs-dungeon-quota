@@ -1,0 +1,9 @@
+## Interface: 100205
+## Title: OnlyFangs Dungeon Quota
+## Notes: Tracks the number of successful dungeon runs for each guild member, on a daily basis.
+## SavedVariables: OFDQ_KillData
+## Author: Your Name
+
+OnlyFangsDungeonQuota.lua
+OnlyFangsDungeonQuota_Comms.lua
+OnlyFangsDungeonQuota_Display.lua 
